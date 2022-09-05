@@ -1,3 +1,8 @@
+此代码原作者链接：
+https://github.com/compilelife
+仅学习使用
+
+
 **由于工作原因，本人已很少使用feiq，该项目暂时挂起，如有发现bug，欢迎下载源码修正后提交pull request**
 
 # 概览
